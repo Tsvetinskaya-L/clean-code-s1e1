@@ -79,7 +79,7 @@ var editTask = function() {
     }
     //toggle .editmode on the parent.
     listItem.classList.toggle("editMode");
-};
+}
 
 
 //Delete task.
